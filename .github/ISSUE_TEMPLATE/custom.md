@@ -1,5 +1,5 @@
 ---
-name: USER STORY : <Acceptance criteria>
+name: 'USER STORY : <Acceptance criteria>'
 about: 'USER STORY : <Acceptance criteria>'
 title: 'USER STORY : <Acceptance criteria>'
 labels: ''
