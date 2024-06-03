@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: USER STORY : <Acceptance criteria>
+about: 'USER STORY : <Acceptance criteria>'
 title: 'USER STORY : <Acceptance criteria>'
 labels: ''
 assignees: ''
